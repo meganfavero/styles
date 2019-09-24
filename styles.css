@@ -1,0 +1,41 @@
+/*7 contrasts*/
+body {
+  font-family:serif;
+  background-color: lightgrey;
+  margin: 30px;
+  text-align: center;
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+  border: 40px;
+  border-radius: 40px;
+  border-width: thin;
+  border-style:inset;
+  border-color: black;
+  padding: 10px;
+  margin-left:10px;
+  margin-right: 10px;
+  background-color: white;
+}
+p{
+  text-align: left;
+  text-indent: 20px;
+
+}
+ul{text-align: left;
+  list-style-type:circle;
+  align-items: center;
+  margin-right: 625px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 40px;
+  border-width: thin;
+  border-style:inset;
+  border-color: black;
+}
+h3{text-decoration: underline;}
+h4{
+  text-decoration: underline;
+
+}
